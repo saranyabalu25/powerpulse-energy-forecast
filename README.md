@@ -1,6 +1,6 @@
 # powerpulse-energy-forecast
 ⚡ PowerPulse: Household Energy Usage Forecast
-🔗 Dataset
+🔗 Dataset https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
 The dataset used for this project is available at the UCI Machine Learning Repository.
 It contains over 2 million measurements of electric power consumption in one household, recorded over nearly four years.
 
